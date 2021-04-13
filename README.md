@@ -6,10 +6,11 @@
 
 **购买链接**
 
-https://item.taobao.com/item.htm?id=634910540361
+https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23299268143.37.7c8d4a3cdrXWUQ&id=640432786573
 
 **文档资料**
 
++ test_program; 测试程序
 + AB32VG1_DataSheet.pdf
 + AB32VG1_Prougen_Schematic_V1_0.pdf
 + AB32VG1_Register.pdf
@@ -17,7 +18,7 @@ https://item.taobao.com/item.htm?id=634910540361
 
 **工具资料**
 
-[安装说明](https://ab32vg1-example.readthedocs.io/zh/latest/rt-thread/wav_player.html#id1)
+[安装说明](https://ab32vg1-example.readthedocs.io/zh/latest/experiment.html)
 
 + CP210x_Windows_Drivers.rar
 + Downloader_v1.9.7.zip
