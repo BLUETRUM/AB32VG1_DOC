@@ -14,7 +14,7 @@ https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23299268143.37.7c8d4a3cdr
 + AB32VG1_DataSheet.pdf
 + AB32VG1_Prougen_Schematic_V1_0.pdf
 + AB32VG1_Register.pdf
-+ AB32VG1_user_manual.pdf
++ AB32VG1_User_Manual.pdf
 
 **工具资料**
 
