@@ -11,10 +11,11 @@ https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23299268143.37.7c8d4a3cdr
 **文档资料**
 
 + test_program; 测试程序
-+ AB32VG1_DataSheet.pdf
-+ AB32VG1_Prougen_Schematic_V1_0.pdf
-+ AB32VG1_Register.pdf
-+ AB32VG1_User_Manual.pdf
++ AB32VG1_DataSheet;
++ AB32VG1_Prougen_Circuit; 电路板资料
++ AB32VG1_Prougen_Schematic; 原理图资料
++ AB32VG1_Register; 寄存器资料
++ AB32VG1_User_Manual;
 
 **工具资料**
 
