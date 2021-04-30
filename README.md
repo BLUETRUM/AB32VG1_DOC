@@ -19,6 +19,8 @@ https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23299268143.37.7c8d4a3cdr
 
 **工具资料**
 
+V01 的板子需要参考下面的安装说明安装 CP210x_Windows_Drivers 的驱动，V02 的板子不需要特别的驱动
+
 [安装说明](https://ab32vg1-example.readthedocs.io/zh/latest/experiment.html)
 
 + CP210x_Windows_Drivers
