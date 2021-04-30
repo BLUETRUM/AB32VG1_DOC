@@ -21,8 +21,8 @@ https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23299268143.37.7c8d4a3cdr
 
 [安装说明](https://ab32vg1-example.readthedocs.io/zh/latest/experiment.html)
 
-+ CP210x_Windows_Drivers.rar
-+ Downloader_v1.9.7.zip
++ CP210x_Windows_Drivers
++ Downloader
 
 **更多信息**
 
