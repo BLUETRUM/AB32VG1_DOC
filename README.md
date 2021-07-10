@@ -4,6 +4,8 @@
 
 本项目提供了 AB32VG1 相关的资料
 
+可以加 Q 群与更多人进行讨论 785592558
+
 **购买链接**
 
 https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23299268143.37.7c8d4a3cdrXWUQ&id=640432786573
